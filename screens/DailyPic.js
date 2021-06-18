@@ -104,7 +104,6 @@ const styles = StyleSheet.create({
         fontSize: 15,
         fontWeight: "bold",
         color: "white",
-        marginTop: 10
     },
     listContainer: {
         backgroundColor: 'rgba(52, 52, 52, 0.5)',
